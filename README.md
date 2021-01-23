@@ -1,0 +1,2 @@
+# zconn
+为设计好ziyouzy/heartbeating,需要先设计出个基于net.Conn所实现结构类的demo，这样我才能有更多的思路和尝试实现功能的途径和平台
