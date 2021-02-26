@@ -1,3 +1,4 @@
+# 20210226-15点42分已弃用，封装的结果应该能够承担起从net.conn到physialnode前的所有相关操作，具体请看新的package riverconn
 # zconn
 为设计好ziyouzy/heartbeating,需要先设计出个基于net.Conn所实现结构类的demo，这样我才能有更多的思路和尝试实现功能的途径和平台
 ***
